@@ -2,7 +2,7 @@ import requests
 import os
 from pprint import pprint
 
-TOKEN = 'AQAAAAAF6-4uAADLW96CeC1e-UNysejZC995nJ4'
+TOKEN = ''
 path_local = os.path.join(os.getcwd(), 'Test_file.txt')
 
 
